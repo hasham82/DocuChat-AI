@@ -297,16 +297,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star! It helps others discover the project.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/docuchat-ai&type=Date)](https://star-history.com/#YOUR_USERNAME/docuchat-ai&Date)
-
----
-
-<div align="center">
-
 **Built with ❤️ using 100% free and open-source tools**
 
 [Report Bug](https://github.com/hasham82/issues) · [Request Feature](https://github.com/hasham82/issues)
