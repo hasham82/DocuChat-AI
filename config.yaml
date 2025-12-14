@@ -1,0 +1,32 @@
+# Vector Store Configuration
+vector_store:
+  type: "chroma"
+  persist_directory: "./chroma_db"
+  
+# Embedding Configuration - FREE HuggingFace
+embeddings:
+  provider: "huggingface"  # FREE!
+  model: "all-MiniLM-L6-v2"  # Fast and good quality
+  # Alternative models:
+  # "all-mpnet-base-v2" - Better quality, slower
+  # "paraphrase-MiniLM-L3-v2" - Fastest, lighter
+  chunk_size: 1000
+  chunk_overlap: 200
+
+# LLM Configuration - FREE Ollama
+llm:
+  provider: "ollama"  # FREE!
+  model: "llama3.1"  # or "mistral" or "phi3"
+  base_url: "http://localhost:11434"
+  temperature: 0.7
+  max_tokens: 500
+
+# Retrieval Configuration
+retrieval:
+  search_type: "similarity"
+  k: 4
+
+# Application Configuration
+app:
+  title: "RAG Document Q&A Chatbot (100% Free)"
+  description: "Ask questions about your documents using free local AI"

@@ -1,0 +1,30 @@
+# Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Vector stores
+chroma_db/
+faiss_index/
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
