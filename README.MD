@@ -26,7 +26,6 @@ DocuChat-AI is a production-ready **Retrieval-Augmented Generation (RAG)** chatb
 
 ### 🎯 Perfect For
 
-- 📚 Portfolio projects and demonstrations
 - 🎓 Learning RAG architecture and LLMs
 - 💼 Document analysis and research
 - 🔐 Sensitive documents that require privacy
