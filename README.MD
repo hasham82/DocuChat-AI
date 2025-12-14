@@ -247,6 +247,9 @@ See [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md) for detailed troubleshooting.
 
 ## Some Demo Screenshots
 ![image alt](https://github.com/hasham82/DocuChat-AI/blob/d15d2233db7acfc5fc370a04cbbfe6efa5bbbe28/Demo/ss0.png)
+![image alt](https://github.com/hasham82/DocuChat-AI/blob/42f7c44e28e815ed21d94bd969b715cb14d931af/Demo/SS1.png)
+![image alt](https://github.com/hasham82/DocuChat-AI/blob/42f7c44e28e815ed21d94bd969b715cb14d931af/Demo/ss2.png)
+![image alt](https://github.com/hasham82/DocuChat-AI/blob/42f7c44e28e815ed21d94bd969b715cb14d931af/Demo/ss3.png)
 
 ---
 
