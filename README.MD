@@ -245,6 +245,9 @@ See [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md) for detailed troubleshooting.
 
 ---
 
+## Some Demo Screenshots
+![image alt](https://github.com/hasham82/DocuChat-AI/blob/d15d2233db7acfc5fc370a04cbbfe6efa5bbbe28/Demo/ss0.png)
+
 ---
 
 ## 🛣️ Roadmap
